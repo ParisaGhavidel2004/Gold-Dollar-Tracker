@@ -22,3 +22,9 @@ A desktop application designed to monitor and analyze gold and currency prices (
    pip install pandas matplotlib
    python app.py
  
+
+## 🎓 About the Project
+This project was part of my Computer Science undergraduate curriculum, focusing on creating an end-to-end desktop solution for financial tracking.
+
+## 📸 Project Preview
+![Gold & Dollar Tracker Interface](screenshot.png)
