@@ -27,4 +27,13 @@ A desktop application designed to monitor and analyze gold and currency prices (
 This project was part of my Computer Science undergraduate curriculum, focusing on creating an end-to-end desktop solution for financial tracking.
 
 ## 📸 Project Preview
-![Gold & Dollar Tracker Interface](screenshot.png)
+Here is a look at the application in action:
+
+**1. Splash Screen:**
+![Splash Screen](Splash.png)
+
+**2. Main Interface:**
+![Main Interface](screenshot.png)
+
+**3. Detailed Analysis View:**
+![Analysis View](screenshot2.png)
